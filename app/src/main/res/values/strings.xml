@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment_Task</string>
+    <string name="more">More</string>
+    <string name="personalInformation">Personal Information</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="languageknown">Languages</string>
+    <string name="education">Education</string>
+    <string name="specilization">Specilizations</string>
+    <string name="practices">Practices</string>
+    <string name="profileDetail">Profile Detail</string>
+    <string name="serverCallCancelled">Server request Cancelled. Please try again.. </string>
+    <string name="doctorList">Doctors</string>
+    <string name="no_internet">No Netwrok Connection. Please connect with network..</string>>
+</resources>
